@@ -24,10 +24,9 @@ Automação em VBA que percorre todas as abas de uma planilha, verifica dados ma
 A automação utiliza uma lista de códigos IDTF (Identificadores de Tipos de Fertilizantes), que representam produtos específicos de interesse. Esses códigos são definidos no início do código e podem ser adaptados conforme o cenário.
 
 **VBA:**
+
 Set idtfsEspecificos = New Collection
-
 idtfsEspecificos.Add 40342 ' Cloreto de Potássio
-
 idtfsEspecificos.Add 40285 ' Corretivos minerais do solo
 
 
