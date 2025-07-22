@@ -38,13 +38,13 @@ idtfsEspecificos.Add 40285 ' Corretivos minerais do solo
 - Execute a macro GerarRelatorioCompleto no Excel.
 - Os relatórios serão salvos por ano e listados ao final em uma mensagem de confirmação.
 
-##🔧 Observações Técnicas
+## 🔧 Observações Técnicas
 - Apenas a primeira ocorrência de "sim" por aba é processada.
 - Se nenhum IDTF for encontrado, a macro insere "Verificar o mês anterior" nas tabelas.
 - O modelo Word deve conter pelo menos 3 tabelas com estrutura compatível.
 
-##❗ Aviso de Ética
+## ❗ Aviso de Ética
 Esta automação foi adaptada para fins didáticos e demonstrativos. Os dados utilizados são genéricos e nenhuma estrutura corporativa real foi incluída.
 
-##✍️ Autor
+## ✍️ Autor
 **Kauan da Silva Terrão.**
